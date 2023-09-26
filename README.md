@@ -10,7 +10,7 @@
 </div>
 
 [![WakaTime](https://wakatime.com/badge/user/seu-nome-de-usuario.svg)](https://wakatime.com/@VinicioSales)
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=VinicioSales)
+
 
 
 
