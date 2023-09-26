@@ -9,6 +9,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinicioSales&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
+[![WakaTime](https://wakatime.com/badge/user/seu-nome-de-usuario.svg)](https://wakatime.com/@VinicioSales)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=VinicioSales)
+
+
+
 <div align="center"> 
 <a href = "mailto:vinicio.santtana@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vin%C3%ADcio-sales-dos-santos-santana-131646171/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
