@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vinício+Sales;I+Am+a+Python+Backend+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![wakatime](https://wakatime.com/badge/user/9e72cf3a-83eb-4320-b747-9dae036f05e5.svg)](sua_url_do_waka)
+[![wakatime](https://wakatime.com/badge/user/3a6bbc61-370e-4132-b5c1-9dfdd94d2092.svg)](https://wakatime.com/@3a6bbc61-370e-4132-b5c1-9dfdd94d2092)
 
 
 
